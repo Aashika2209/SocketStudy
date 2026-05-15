@@ -82,12 +82,8 @@ client_socket.close()
 ```
 
 ## Output
-## Server
-<img width="658" height="101" alt="Screenshot 2026-05-15 154624" src="https://github.com/user-attachments/assets/6dd3512a-9f70-4c6b-b552-0c84cd9eb151" />
 
-
-## Client
-<img width="547" height="82" alt="Screenshot 2026-05-15 154633" src="https://github.com/user-attachments/assets/2ce04a3a-c912-4278-bc42-ba279ffdcd6d" />
+<img width="1920" height="1200" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/f49c923c-5a33-41a5-96d5-fdab6fc6b2e7" />
 
 
 ## Result:
