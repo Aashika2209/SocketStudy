@@ -67,6 +67,7 @@ data=conn.recv(1024)
 print(f"Received from client: {data.decode()}")
 conn.close()
 server_socket.close()
+
 '''
 
 ## Client
